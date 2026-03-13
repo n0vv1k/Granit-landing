@@ -45,7 +45,7 @@ granit-landing/
   │   └── style.css
   │
   ├── js/
-  │   └── script.js
+  │   └── main.js
   │
   ├── img/
   │   └── images
